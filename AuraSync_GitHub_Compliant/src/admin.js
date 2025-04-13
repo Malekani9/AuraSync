@@ -1,0 +1,1 @@
+console.log('Admin Firebase JS Loaded');

@@ -1,0 +1,1 @@
+console.log('Main Firebase JS Loaded');
